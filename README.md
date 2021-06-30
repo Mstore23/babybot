@@ -49,15 +49,15 @@ Siapin alat dan bahannya.
 Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
-    "botName": "BABY BOT",
-    "ownerName": "RAMLAN ID",
-    "ownerNumbers": "62855xxxxxxxx",
+    "botName": "Mstore",
+    "ownerName": "It'sMeFront",
+    "ownerNumbers": "628886377691",
     "ZeksApi": "apivinz",
-    "botPrefix": "!",
-    "GrupLimitz": "0",
-    "autor": "MrR4M",
-    "peknem": "BABY-BOT",
-    "CeerTod": "*BABY BOTZ VERIFIED*"
+    "botPrefix": "/",
+    "GrupLimitz": "5",
+    "autor": "Fr0nt",
+    "peknem": "MS-BOT",
+    "CeerTod": "*MS BOTZ VERIFIED*"
 }
 
 ```
