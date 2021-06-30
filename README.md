@@ -71,7 +71,7 @@ Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/Ramlan404/babybot
+> git clone https://github.com/Mstore23/babybot
 > cd babybot
 > bash install.sh
 > npm start
